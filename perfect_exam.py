@@ -3,6 +3,7 @@ n,m = [int(x) for x in input().split()]
 total = 0
 
 answers_all = []
+
 for _ in range(n):
     answers_all.append(input())
 points = [int(x) for x in input().split()]
